@@ -8,7 +8,7 @@ int main()
 
 {
 	Simulator s;
-	s.Load("c:\\Hazem\\test.cir");
+	s.Load("c:\\Elhossiny\\test.cir");
 	int x;
 	cin>>x;
 }
